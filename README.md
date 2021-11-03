@@ -1,6 +1,6 @@
 # MAPSDT
 
-
+[![Downloads](https://pepy.tech/badge/MAPSDT)](https://pepy.tech/project/MAPSDT)
 [![OS](https://img.shields.io/badge/OS-windows-red)](https://windows.com)
 [![Python version](https://img.shields.io/badge/python-3.7.0-brightgreen.svg)](https://www.python.org) 
  
