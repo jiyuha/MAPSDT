@@ -9,7 +9,7 @@
 
 **Installation**
 
-The easiest way to install MAPSDT framework is to download it from [from PyPI](https://pypi.org/project/MAPSDT).
+The easiest way to install MAPSDT framework is to download it from [PyPI](https://pypi.org/project/MAPSDT).
 ```
 pip install MAPSDT==0.1.5
 ```
